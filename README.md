@@ -1,6 +1,9 @@
 # flutter_navigator_example
 
-A new Flutter project.
+The demo app from the course "The Complete 2021 Flutter Development Bootcamp with Dart" by Dr. Angela Yu did not run due to Flutter SDK and Dart Language changes.
+Here is the original project: https://github.com/londonappbrewery/Navigation-Flutter-Demo
+This project is based on the .dart files having been copied across to a black Flutter project.
+See: https://darttrainee.blogspot.com/2022/01/old-tutorial-new-flutter-sdk.html
 
 ## Getting Started
 
